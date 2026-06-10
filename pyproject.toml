@@ -23,12 +23,15 @@ dependencies = [
 
 [project.optional-dependencies]
 all = [
+    "pysdl2"
+    "pysdl2-dll",
     "pyopengl",
     "glfw",
     "PyOpenAL",
     "markdown",
     "pdoc3",
     "gym",
+    
 ]
 
 [project.urls]
