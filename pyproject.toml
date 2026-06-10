@@ -23,7 +23,7 @@ dependencies = [
 
 [project.optional-dependencies]
 all = [
-    "pysdl2"
+    "pysdl2",
     "pysdl2-dll",
     "pyopengl",
     "glfw",
